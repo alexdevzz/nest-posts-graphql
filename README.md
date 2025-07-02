@@ -27,7 +27,22 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Este proyecto es una API muy simplicada para ejemplificar el uso de GraphQL como capa de comunicación sobre el framework NestJS, utilizando ademas, SQLite como base de datos, TypeORM para el mapeo objeto-relacional, y cuenta con validación de datos mediante class-validator y DTOs (Data Transfer Objects).
+
+## 🚀 Features
+- **Node**: v20.17.0
+- **NestJS**: Framework backend progresivo para Node.js
+- **GraphQL**: Lenguaje de consulta para APIs
+- **SQLite**: Base de datos relacional embebida
+- **TypeORM**: ORM para TypeScript y JavaScript
+- **class-validator**: Validación de clases y decoradores
+- **DTOs**: Patrón para transferencia de datos
+- **TypeScript**: Superset tipado de JavaScript
+- **ESLint**: Linter de condigo para Javascript/Typecript
+- **Prettier**: Formateador de codigo abierto
+- works perfectly with any frontend client
+- NestJs best practices through the use of DTOs (Data Transfer Object), Resolvers, Entities, Modules, Services, and More
+- Easy to use
 
 ## Project setup
 
@@ -76,16 +91,7 @@ This project is licensed under MIT.
 ---
 ---
 ---
-# Ecommerce Backend API <img src="https://github.com/user-attachments/assets/85abb686-eebf-4dce-aebb-1e833ea9d0df" alt="React" width="30" height="30">
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Static Badge](https://img.shields.io/badge/build-in_deploy-red)
-![GitHub License](https://img.shields.io/github/license/alexdevzz/ecommerce-backend-api?color=gren)
-![GitHub Created At](https://img.shields.io/github/created-at/alexdevzz/ecommerce-backend-api)
-![GitHub top language](https://img.shields.io/github/languages/top/alexdevzz/ecommerce-backend-api?color=purple)
-![Framework](https://img.shields.io/badge/framework-Spring-gren)
 
-## Description
-Este proyecto es una API muy simplicada para ejemplificar el uso de GraphQL como capa de comunicación sobre el framework NestJS, utilizando ademas, SQLite como base de datos, TypeORM para el mapeo objeto-relacional, y cuenta con validación de datos mediante class-validator y DTOs (Data Transfer Objects).
 
 ## Features
 - Swagger UI documentation for each of the API endpoints
