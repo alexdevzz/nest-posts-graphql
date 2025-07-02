@@ -16,4 +16,12 @@ export class PostsService {
     const newPost = this.postRepository.create(post)
     return this.postRepository.save(newPost)
   }
+
+  async findPostById(id: number): Promise<Post | null> {
+    return this.postRepository.findOne({
+      where: {
+        id,
+      },
+    })
+  }
 }
