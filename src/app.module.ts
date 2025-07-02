@@ -4,6 +4,7 @@ import { GraphQLModule } from '@nestjs/graphql'
 import { ApolloDriver, ApolloDriverConfig } from '@nestjs/apollo'
 import { join } from 'path'
 import { TypeOrmModule } from '@nestjs/typeorm'
+import { AuthorsModule } from './authors/authors.module';
 
 @Module({
   imports: [
@@ -18,6 +19,7 @@ import { TypeOrmModule } from '@nestjs/typeorm'
       synchronize: true,
     }),
     PostsModule,
+    AuthorsModule,
   ],
   controllers: [],
   providers: [],
