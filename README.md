@@ -11,12 +11,19 @@
 <a href="" target="_blank"><img src="https://img.shields.io/github/created-at/alexdevzz/nest-posts-graphql"  /></a>
 <a href="" target="_blank"><img src="https://img.shields.io/github/languages/top/alexdevzz/nest-posts-graphql?color=purple"  /></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/framework-NestJS-darkred"  /></a>
-  
-
-
 </p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+</br>
+<p align="center">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"  /></a>
+</p>
+ 
 
 ## Description
 
@@ -78,7 +85,7 @@ This project is licensed under MIT.
 ![Framework](https://img.shields.io/badge/framework-Spring-gren)
 
 ## Description
-This project is a simplified REST API developed in Spring framework that allows the management of products and orders of a virtual store with ease.
+Este proyecto es una API muy simplicada para ejemplificar el uso de GraphQL como capa de comunicación sobre el framework NestJS, utilizando ademas, SQLite como base de datos, TypeORM para el mapeo objeto-relacional, y cuenta con validación de datos mediante class-validator y DTOs (Data Transfer Objects).
 
 ## Features
 - Swagger UI documentation for each of the API endpoints
