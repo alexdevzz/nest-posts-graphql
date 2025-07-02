@@ -70,29 +70,28 @@ Check out a few resources that may come in handy when working with NestJS:
 - Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
 - To stay in the loop and get updates, follow me on [X](https://x.com/alexdevzz) and [LinkedIn](https://www.linkedin.com/in/alexdevzz/).
 
-## 🤝 Stay in touch
-<div>
-  <a href="https://www.linkedin.com/in/alexdevzz/" target="blank"><img src="https://github.com/user-attachments/assets/dda50e0a-625d-45cf-80fe-715b557e955d" width="15" alt="" /></a>
-  alexdevzz
-</div>
+## 📣 Stay in touch
 
- 
+- LinkedIn - [alexdevzz](https://www.linkedin.com/in/alexdevzz/)
 - Gmail - [alexdev.workenv@gmail.com](mailto:alexdev.workenv@gmail.com)
 - X - [@alexdevzz](https://x.com/alexdevzz)
 - Telegram - [@alexdev_00](https://t.me/alexdev_00)
 - Instagram - [@is.ale_00](https://www.instagram.com/is.ale_00/)
 
-</br>
-
-<div align="center">
   
-## Contributions
+## 🤝 Contributions
+
+1. Fork the project
+2. Create a branch (git checkout -b feature/new-feature)
+3. Commit your changes (git commit -am 'Add new feature')
+4. Push to the branch (git push origin feature/new-feature)
+5. Open a Pull Request
+
 Contributions are welcome! If you find any bugs or have any suggestions for improving the module, please feel free to open an issue or submit a pull request.
 
-</br>
+## 📄 License
 
-## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-</div>
+
 
