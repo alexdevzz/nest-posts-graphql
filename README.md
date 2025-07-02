@@ -44,24 +44,21 @@ Este proyecto es una API muy simplicada para ejemplificar el uso de GraphQL como
 - NestJs best practices through the use of DTOs (Data Transfer Object), Resolvers, Entities, Modules, Services, and More
 - Easy to use
 
-## Project setup
-
-```bash
-$ npm install
-```
-
-## Compile and run the project
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
+## Install
+1. Before continuing with the installation process you must have `node` installed on your operating system. If you do not have them, install it.
+   
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/alexdevzz/nest-posts-graphql.git
+   ```
+3. Install de dependencies:
+   ```bash
+   npm install
+   ```
+4. Run in development mode:
+   ```bash
+   npm run start:dev
+   ```
 
 
 
@@ -87,65 +84,4 @@ Check out a few resources that may come in handy when working with NestJS:
 ## License
 
 This project is licensed under MIT.
-
----
----
----
-
-
-## Features
-- Swagger UI documentation for each of the API endpoints
-- Java Development Kit 21.0.4
-- Maven 3.9.9
-- MySQL 8.0.4
-- Manage Customers, Product's Categories, Product's Options, Products, and Orders
-- Track all stages of delivery operations
-- Works perfectly with any API testing software
-- SOLID methodology principles for project structuring
-- Spring Framework best practices through the use of DTOs (Data Transfer Object), DAOs (Data Access Object), Controllers, Entities, Mappers, Payloads, and Services
-- Easy to use
-
-## Spring Dependencies
-- Spring Boot DeVTools
-- Lombok
-- Srping Web
-- JDBC API
-- Spring Data JPA
-- MySQL Driver
-- Validation
-- CycloneDX SBOM support
-- OpenAPI Springdoc
-
-## Install
-1. Before continuing with the installation process you must have JDK 21, Maven 3..9 and MySQL 8 installed on your operating system. If you do not have them, install them and update the Maven and Java environment variables.
-   
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/alexdevzz/ecommerce-backend-api.git
-   ```
-3. Open the project in your favorite IDE
-   
-4. Go to ```application.yml``` and adjust the database parameters in ```datasource``` (In order to run the application without errors you must have the database previously created, even if it is empty)
- 
-   ![imagen](https://github.com/user-attachments/assets/ae90c13c-7846-443e-b448-c9bab1d37034)
-   
-6. Go to ```pom.xml``` and then, check and update maven dependencies
-   
-7. Then you must compile the Spring Boot application. To do this you must position yourself at the root of the project and package the application using the next command in your console:
-   ``` bash
-   mvnw package
-   ```
-   The packaged application file is stored in the new folder ```target```
-   
-8. We position ourselves in the newly created folder ```target``` and run the previously packaged file:
-    ``` bash
-    java -jar file_name.jar
-    ```
-
-8. Ready !!!
-
-## ER Diagram
-Here is the Entity-Relationship diagram generated using https://dbdiagram.io/
-
-![Alt text](src/main/resources/bd_diagram.png)
 
