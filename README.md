@@ -71,19 +71,27 @@ Check out a few resources that may come in handy when working with NestJS:
 - To stay in the loop and get updates, follow me on [X](https://x.com/alexdevzz) and [LinkedIn](https://www.linkedin.com/in/alexdevzz/).
 
 ## 🤝 Stay in touch
+<div>
+  <a href="https://www.linkedin.com/in/alexdevzz/" target="blank"><img src="https://github.com/user-attachments/assets/dda50e0a-625d-45cf-80fe-715b557e955d" width="15" alt="" /></a>
+  alexdevzz
+</div>
 
-- LinkedIn - [alexdevzz](https://www.linkedin.com/in/alexdevzz/)
+ 
 - Gmail - [alexdev.workenv@gmail.com](mailto:alexdev.workenv@gmail.com)
 - X - [@alexdevzz](https://x.com/alexdevzz)
 - Telegram - [@alexdev_00](https://t.me/alexdev_00)
 - Instagram - [@is.ale_00](https://www.instagram.com/is.ale_00/)
 
+</br>
+
 <div align="center">
   
-## 🎁 Contributions
+## Contributions
 Contributions are welcome! If you find any bugs or have any suggestions for improving the module, please feel free to open an issue or submit a pull request.
 
-## ®️ License
+</br>
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 </div>
