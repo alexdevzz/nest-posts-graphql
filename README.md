@@ -25,33 +25,34 @@
 </p>
  
 
-## Description
+## 📋 Description
 
-Este proyecto es una API muy simplicada para ejemplificar el uso de GraphQL como capa de comunicación sobre el framework NestJS, utilizando ademas, SQLite como base de datos, TypeORM para el mapeo objeto-relacional, y cuenta con validación de datos mediante class-validator y DTOs (Data Transfer Objects).
+This project is a very simplified API to exemplify the use of GraphQL as a communication layer on the NestJS framework, also using SQLite as a database, TypeORM for object-relational mapping, and it has data validation through class-validator and DTOs (Data Transfer Objects).
 
 ## 🚀 Features
 - **Node**: v20.17.0
-- **NestJS**: Framework backend progresivo para Node.js
-- **GraphQL**: Lenguaje de consulta para APIs
-- **SQLite**: Base de datos relacional embebida
-- **TypeORM**: ORM para TypeScript y JavaScript
-- **class-validator**: Validación de clases y decoradores
-- **DTOs**: Patrón para transferencia de datos
-- **TypeScript**: Superset tipado de JavaScript
-- **ESLint**: Linter de condigo para Javascript/Typecript
-- **Prettier**: Formateador de codigo abierto
+- **npm**: v10.8.2
+- **NestJS**: Progressive backend framework for Node.js
+- **GraphQL**: Query language for APIs
+- **SQLite3**: Embedded relational database
+- **TypeORM**: ORM for TypeScript and JavaScript
+- **class-validator**: Class and decorator validation
+- **DTOs**: Data transfer pattern
+- **TypeScript**: JavaScript superset type
+- **ESLint**: Code linter for Javascript/Typescript
+- **Prettier**: Open-source formatter
 - works perfectly with any frontend client
-- NestJs best practices through the use of DTOs (Data Transfer Object), Resolvers, Entities, Modules, Services, and More
+- NestJs best practices through the use of DTOs (Data Transfer Objects), Resolvers, Entities, Modules, Services, and more
 - Easy to use
 
-## Install
+## ⚙️ Install
 1. Before continuing with the installation process you must have `node` installed on your operating system. If you do not have them, install it.
    
 2. Clone this repository:
    ```bash
    git clone https://github.com/alexdevzz/nest-posts-graphql.git
    ```
-3. Install de dependencies:
+3. Install dependencies:
    ```bash
    npm install
    ```
@@ -60,7 +61,7 @@ Este proyecto es una API muy simplicada para ejemplificar el uso de GraphQL como
    npm run start:dev
    ```
 
-## Resources
+## 📝 Resources
 
 Check out a few resources that may come in handy when working with NestJS:
 
@@ -69,7 +70,7 @@ Check out a few resources that may come in handy when working with NestJS:
 - Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
 - To stay in the loop and get updates, follow me on [X](https://x.com/alexdevzz) and [LinkedIn](https://www.linkedin.com/in/alexdevzz/).
 
-## Stay in touch
+## 🤝 Stay in touch
 
 - LinkedIn - [alexdevzz](https://www.linkedin.com/in/alexdevzz/)
 - Gmail - [alexdev.workenv@gmail.com](mailto:alexdev.workenv@gmail.com)
@@ -77,7 +78,13 @@ Check out a few resources that may come in handy when working with NestJS:
 - Telegram - [@alexdev_00](https://t.me/alexdev_00)
 - Instagram - [@is.ale_00](https://www.instagram.com/is.ale_00/)
 
-## License
+<div align="center">
+  
+## 🎁 Contributions
+Contributions are welcome! If you find any bugs or have any suggestions for improving the module, please feel free to open an issue or submit a pull request.
 
-This project is licensed under MIT.
+## ®️ License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+</div>
 
