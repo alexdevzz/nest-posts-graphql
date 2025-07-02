@@ -60,10 +60,6 @@ Este proyecto es una API muy simplicada para ejemplificar el uso de GraphQL como
    npm run start:dev
    ```
 
-
-
-
-
 ## Resources
 
 Check out a few resources that may come in handy when working with NestJS:
@@ -71,13 +67,13 @@ Check out a few resources that may come in handy when working with NestJS:
 - Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
 - Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
 - Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
+- To stay in the loop and get updates, follow me on [X](https://x.com/alexdevzz) and [LinkedIn](https://www.linkedin.com/in/alexdevzz/).
 
 ## Stay in touch
 
 - LinkedIn - [alexdevzz](https://www.linkedin.com/in/alexdevzz/)
 - Gmail - [alexdev.workenv@gmail.com](mailto:alexdev.workenv@gmail.com)
-- Twitter - [@alexdevzz](https://x.com/alexdevzz)
+- X - [@alexdevzz](https://x.com/alexdevzz)
 - Telegram - [@alexdev_00](https://t.me/alexdev_00)
 - Instagram - [@is.ale_00](https://www.instagram.com/is.ale_00/)
 
