@@ -1,22 +1,19 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+  <a href="" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+  <a href="" target="blank"><img src="https://github.com/user-attachments/assets/e8ad12ee-46e0-456e-809b-db050ed33dea" width="120" alt="GraphQL Logo" /></a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+#  <p align="center"><strong>Posts Backend API</strong></p>
+<p align="center">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/version-1.0.0-blue"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/build-develop-red"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/github/license/alexdevzz/nest-posts-graphql?color=gren"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/github/created-at/alexdevzz/nest-posts-graphql"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/github/languages/top/alexdevzz/nest-posts-graphql?color=purple"  /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/framework-NestJS-darkred"  /></a>
+  
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg" alt="Donate us"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
+
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
@@ -44,55 +41,98 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Run tests
 
-```bash
-# unit tests
-$ npm run test
 
-# e2e tests
-$ npm run test:e2e
 
-# test coverage
-$ npm run test:cov
-```
-
-## Deployment
-
-When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
-
-If you are looking for a cloud-based platform to deploy your NestJS application, check out [Mau](https://mau.nestjs.com), our official platform for deploying NestJS applications on AWS. Mau makes deployment straightforward and fast, requiring just a few simple steps:
-
-```bash
-$ npm install -g @nestjs/mau
-$ mau deploy
-```
-
-With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
 
 ## Resources
 
 Check out a few resources that may come in handy when working with NestJS:
 
 - Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
-- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
-- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
 - Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
 - Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
 - To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- LinkedIn - [alexdevzz](https://www.linkedin.com/in/alexdevzz/)
+- Gmail - [alexdev.workenv@gmail.com](mailto:alexdev.workenv@gmail.com)
+- Twitter - [@alexdevzz](https://x.com/alexdevzz)
+- Telegram - [@alexdev_00](https://t.me/alexdev_00)
+- Instagram - [@is.ale_00](https://www.instagram.com/is.ale_00/)
 
 ## License
 
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+This project is licensed under MIT.
+
+---
+---
+---
+# Ecommerce Backend API <img src="https://github.com/user-attachments/assets/85abb686-eebf-4dce-aebb-1e833ea9d0df" alt="React" width="30" height="30">
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Static Badge](https://img.shields.io/badge/build-in_deploy-red)
+![GitHub License](https://img.shields.io/github/license/alexdevzz/ecommerce-backend-api?color=gren)
+![GitHub Created At](https://img.shields.io/github/created-at/alexdevzz/ecommerce-backend-api)
+![GitHub top language](https://img.shields.io/github/languages/top/alexdevzz/ecommerce-backend-api?color=purple)
+![Framework](https://img.shields.io/badge/framework-Spring-gren)
+
+## Description
+This project is a simplified REST API developed in Spring framework that allows the management of products and orders of a virtual store with ease.
+
+## Features
+- Swagger UI documentation for each of the API endpoints
+- Java Development Kit 21.0.4
+- Maven 3.9.9
+- MySQL 8.0.4
+- Manage Customers, Product's Categories, Product's Options, Products, and Orders
+- Track all stages of delivery operations
+- Works perfectly with any API testing software
+- SOLID methodology principles for project structuring
+- Spring Framework best practices through the use of DTOs (Data Transfer Object), DAOs (Data Access Object), Controllers, Entities, Mappers, Payloads, and Services
+- Easy to use
+
+## Spring Dependencies
+- Spring Boot DeVTools
+- Lombok
+- Srping Web
+- JDBC API
+- Spring Data JPA
+- MySQL Driver
+- Validation
+- CycloneDX SBOM support
+- OpenAPI Springdoc
+
+## Install
+1. Before continuing with the installation process you must have JDK 21, Maven 3..9 and MySQL 8 installed on your operating system. If you do not have them, install them and update the Maven and Java environment variables.
+   
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/alexdevzz/ecommerce-backend-api.git
+   ```
+3. Open the project in your favorite IDE
+   
+4. Go to ```application.yml``` and adjust the database parameters in ```datasource``` (In order to run the application without errors you must have the database previously created, even if it is empty)
+ 
+   ![imagen](https://github.com/user-attachments/assets/ae90c13c-7846-443e-b448-c9bab1d37034)
+   
+6. Go to ```pom.xml``` and then, check and update maven dependencies
+   
+7. Then you must compile the Spring Boot application. To do this you must position yourself at the root of the project and package the application using the next command in your console:
+   ``` bash
+   mvnw package
+   ```
+   The packaged application file is stored in the new folder ```target```
+   
+8. We position ourselves in the newly created folder ```target``` and run the previously packaged file:
+    ``` bash
+    java -jar file_name.jar
+    ```
+
+8. Ready !!!
+
+## ER Diagram
+Here is the Entity-Relationship diagram generated using https://dbdiagram.io/
+
+![Alt text](src/main/resources/bd_diagram.png)
+
